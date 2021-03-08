@@ -1,0 +1,6 @@
+[submodule "Emulation/source/Kernel-armel"]
+	path = Emulation/source/Kernel-armel
+	url = https://github.com/firmadyne/kernel-v4.1
+[submodule "Emulation/source/Kernel-mips"]
+	path = Emulation/source/Kernel-mips
+	url = https://github.com/firmadyne/kernel-v2.6

@@ -1,4 +1,4 @@
-# SIoTFuzzer
+# Intro
 There are three components in this projject: Emulation, Spider and Fuzzer.
 ## Emulation
 The Emulation component is based on Firmadyne and we futher add some modification in the linux kernel as well as the filesystem.
